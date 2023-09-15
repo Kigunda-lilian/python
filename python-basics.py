@@ -415,7 +415,7 @@ if 'erin' not in favorite_languages.keys():
 # Looping Through a Dictionary’s Keys in Order
 # # One way to return items in a certain order is to sort the keys as they’rereturned in the for loop. You can use the sorted() function to get a copy of
 # the keys in order:
-# his for statement is like other for statements except that we’ve wrapped the sorted() function around the dictionary.keys() method.
+# This for statement is like other for statements except that we’ve wrapped the sorted() function around the dictionary.keys() method.
 
 favorite_languages={
     'jen':'python',
@@ -606,3 +606,5 @@ while active:
 # Use the break statement
 # you can use it to control which lines of code are executed and which aren’t, so the program only 
 # executes code that you want it to, when you want it to
+
+
